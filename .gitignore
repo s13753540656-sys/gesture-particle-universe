@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.tooling/
+.qa/
+*.tsbuildinfo
+.env.local
+.DS_Store
+public/mediapipe/wasm/
+public/mediapipe/hand.worker.js
