@@ -7,3 +7,4 @@ dist/
 .DS_Store
 public/mediapipe/wasm/
 public/mediapipe/hand.worker.js
+Gesture-Particle-Universe-web.zip
